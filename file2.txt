@@ -1,0 +1,6 @@
+error: pathspec 'b2' did not match any file(s) known to git
+PS C:\Users\Tanmay Yewale\Desktop\New folder\GitPractice> git branch b2
+PS C:\Users\Tanmay Yewale\Desktop\New folder\GitPractice> git branch     
+  b1
+  b2
+* main
