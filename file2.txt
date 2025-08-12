@@ -4,3 +4,16 @@ PS C:\Users\Tanmay Yewale\Desktop\New folder\GitPractice> git branch
   b1
   b2
 * main
+echo "# GitPractice" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Rutujayewale29/GitPractice.git
+git push -u origin main
+echo "# GitPractice" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+
