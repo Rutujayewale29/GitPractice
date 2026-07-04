@@ -2,3 +2,4 @@ I created this file for git practice .
 I used git pull request while merging me code with main branch.
 currently i created CH1234 feature branch.
 https://github.com/Rutujayewale29/GitPractice/pull/3
+this is done by branch b2.
