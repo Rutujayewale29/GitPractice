@@ -1,5 +1,6 @@
 echo "# GitPractice" >> README.md
-git init
+git init 12
+this is new line
 git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/Rutujayewale29/GitPractice.git
